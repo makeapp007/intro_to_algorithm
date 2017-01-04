@@ -1,0 +1,2 @@
+use min-cut max-flow(Ford Fulkerson + Bfs ) to do image matting.
+
